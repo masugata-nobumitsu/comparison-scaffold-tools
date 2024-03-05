@@ -1,0 +1,19 @@
+{
+  "name": "comparison-scaffold-tools",
+  "version": "1.0.0",
+  "description": "スキャフォールディングツールの比較用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate:plop": "",
+    "generate:hygen": "",
+    "generate:scaffdog": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hygen": "^6.2.11",
+    "plop": "^4.0.1",
+    "scaffdog": "^3.0.0"
+  }
+}
