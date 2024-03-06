@@ -5,9 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "generate:plop": "",
-    "generate:hygen": "",
-    "generate:scaffdog": ""
+    "generate:plop": "plop",
+    "generate:hygen:Component": "hygen Component new",
+    "generate:hygen:Hooks": "hygen Hooks new",
+    "generate:scaffdog": "npx scaffdog generate"
   },
   "author": "",
   "license": "ISC",
